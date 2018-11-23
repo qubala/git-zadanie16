@@ -1,0 +1,19 @@
+/* css documnet */
+
+body 
+{
+    background-color: grey;
+}
+
+h1
+{
+    color: white;
+}
+
+div
+{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    display: block;
+}
